@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "nombre": "Mueble Movil",
+        "precio": 5000,
+        "categoria": "Muebles",
+        "stock": 10,
+        "altura":"90 cm",
+        "ancho": "45 cm",
+        "profundidad": "120 cm",
+        "imgUrl": "archivos/imagenes/mueblemovil.jpg",
+        "informacion" : "Mueble de melamina color a elección *Cuenta con rueditas aportando a la exibilidad de los espacios *Opciones de diferentes cuerpos segun espacios y necesidades."
+    },
+    {
+        "id": 2,
+        "nombre": "Domino Animales",
+        "precio": 2000,
+        "categoria": "Juegos",
+        "stock": 20,
+        "altura":"40 cm",
+        "ancho": "20 cm",
+        "imgUrl": "archivos/imagenes/dominoanimales.jpg",
+        "informacion" : "Juego de domino grande de piso, con formas de animales. Fomentar juegos didácticos que promueven la atención/concentración, la memoria, el pensamiento lógico y la resolución de problemas."
+    },
+    {
+        "id": 3,
+        "nombre": "Juegos Montessori",
+        "precio": 10000,
+        "categoria": "Juegos",
+        "stock": 5,
+        "altura":"70 cm",
+        "ancho": "45 cm",
+        "largo":"160cm",
+        "imgUrl": "archivos/imagenes/juegosmontessori.jpg",
+        "informacion" : "*Triángulo grande trepador. *Cubo trepador. *Rampa doble cara: lisa y trapadora/escaladora. *Balansín. *Todas las variantes a pedido."
+    },
+    {
+        "id": 4,
+        "nombre": "Minutas de Madera",
+        "precio": 4000,
+        "categoria": "Juegos",
+        "stock": 10,
+        "altura":"40 cm",
+        "ancho": "30 cm",
+        "imgUrl": "archivos/imagenes/minutasdemadera.jpg",
+        "informacion" :"Para fomentar juegos inclusivos y equitativos: alimentos, frutas y utensillos de madera que permiten corte y fraccionamiento de los mismos"
+
+    }
+
+]
